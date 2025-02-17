@@ -1,2 +1,2 @@
 # GraphRAGindex
-已经构建好的索引
+”index“文件夹放在”索引“文件夹里
